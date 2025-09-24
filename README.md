@@ -1,2 +1,2 @@
 # Cinquillo-Game-2021-2022
-proyecto primer año de carrera
+proyecto primer año de carrera, realizado en un grupo de 4 personas...
